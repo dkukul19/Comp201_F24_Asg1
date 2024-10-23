@@ -1,0 +1,10 @@
+destroy
+attack
+kill
+fight
+eliminate
+hack
+invade
+explode
+terminate
+conquer
